@@ -46969,7 +46969,7 @@ G.rT.prototype={
 ap:function(){return new G.Cx(C.n)}}
 G.Cx.prototype={
 J:function(a){var t=null,s=u.X
-return M.mz($.GJ(),E.mJ(Q.a2v(M.b0(t,T.cP(H.a([new U.xL("",t),new N.yn(P.aL(["title","","time","","image","assets/images/profitnesslogo.png"],s,s),t)],u.t),C.N,C.W,C.P),t,t,t,t,t,t,new V.W(0,20,0,0),t,t),!0),t,C.E,t,C.i),t)}}
+return M.mz($.GJ(),E.mJ(Q.a2v(M.b0(t,T.cP(H.a([new U.xL("",t),new N.yn(P.aL(["title","","time","","image","assets/images/profitnesslogo.jpeg"],s,s),t)],u.t),C.N,C.W,C.P),t,t,t,t,t,t,new V.W(0,20,0,0),t,t),!0),t,C.E,t,C.i),t)}}
 U.xL.prototype={
 J:function(a){var t=null,s=M.b0(C.Q,L.aV(this.c,t,t,t,t,A.bu(t,t,C.j,t,t,t,t,t,t,t,t,28,t,C.at,t,t,!0,t,t,t,t,t,t),t),t,t,t,t,54,new V.W(20,0,0,0),t,t,t),r=M.b0(t,t,t,t,t,t,t,t,t,t,t)
 return T.PP(H.a([s,r],u.t),C.N,C.je,C.P)}}
